@@ -16,4 +16,4 @@ for (let i = 0; i < 8000; i++){
         div.style.backgroundColor = brush.style.backgroundColor
 })
 
-} 
+}
