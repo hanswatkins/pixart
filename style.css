@@ -27,4 +27,7 @@ h1 {
 
 body {
   background-image: url('images/ps_neutral.png');
+  max-width: 80rem;
+  display: block;
+  margin: 0px auto;
 }
